@@ -1,0 +1,60 @@
+
+body{
+    background: rgba(224, 182, 224, 0.993);
+}
+
+
+
+header{
+    text-align: center;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.nav-list{
+
+ display: flex;
+    justify-content:space-between;
+}
+
+
+
+.nav-list{
+
+    width: 1600px;
+
+background-color: beige;
+    list-style-type: none;
+ 
+  margin-left: auto; 
+  margin-right: auto; 
+}
+
+main{
+}
+.contairne{
+    
+    max-width: 1500px;
+}
+
+form{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+input{
+
+background-color: blueviolet;
+width: 200px;
+height: 50px;
+    list-style-type: none;
+border: 2px solid;
+border-radius: 15px;
+margin-bottom: 5px;
+}
+
