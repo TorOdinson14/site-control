@@ -15,6 +15,7 @@ font-size: 40px;
 
 ul{
     margin:  0 0 0 0 ;
+    padding: 0 0 0 0;
 }
 
 li{
@@ -86,3 +87,25 @@ margin: 25px 25px 25px 25px;
 .nav-li h2 {
     font-size: 30px;
 }
+
+
+.ul-img{
+    display: block;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+.li-img{
+   
+
+    max-width: 100%;
+    height: 500px;
+  background-image: url(/img/обучение.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
