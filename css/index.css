@@ -115,7 +115,14 @@ margin: 25px 25px 25px 25px;
 #video-fon {
     width: 100%;
     height: auto;
-  
-    top: 0px;
- 
+margin: -3px -3px ;
+ z-index: -1;
+}
+
+h1{
+color: rgb(228, 228, 228);
+   margin:5px 0 0 38%;
+font-size: 40px;
+
+position: absolute;
 }
