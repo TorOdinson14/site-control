@@ -63,6 +63,7 @@ img{
 }
 
 .nav-list{
+    
    display: flex;
    flex-wrap: wrap;
    justify-content: space-around;
@@ -109,3 +110,12 @@ margin: 25px 25px 25px 25px;
 
 }
 
+
+
+#video-fon {
+    width: 100%;
+    height: auto;
+  
+    top: 0px;
+ 
+}
